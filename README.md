@@ -1,4 +1,7 @@
-# Rdasar
-Pembelajaran Tentang Pemrograman dengan R.
+# Coding Logistic Regression
 
-## Visualisasi data
+Berikut adalah implementasi Logistic Regression di Python dari nol.
+
+Ada dua pendekatan, yaitu:
+- One-vs-all
+- softmax
